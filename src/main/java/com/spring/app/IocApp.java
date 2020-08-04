@@ -9,7 +9,7 @@ import org.springframework.core.io.Resource;
 
 import com.spring.bean.Department;
 import com.spring.bean.User;
-
+//tilahun hunde
 public class IocApp {
 	//This is new line added
 	public static void main(String[] args) {
